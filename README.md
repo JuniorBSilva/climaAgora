@@ -1,1 +1,3 @@
 # climaAgora Exemplo
+
+Editado localmente
